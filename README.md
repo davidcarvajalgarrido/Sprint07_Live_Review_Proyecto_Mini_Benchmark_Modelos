@@ -1,4 +1,4 @@
-![Cabecera](../../assets/cabecera_gemini.png)
+![Cabecera](./assets/cabecera_gemini.png)
 
 # Práctica Sprint 07 — Mini-benchmark
 
