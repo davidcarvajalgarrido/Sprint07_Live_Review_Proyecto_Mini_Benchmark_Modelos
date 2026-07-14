@@ -1,22 +1,18 @@
 [
   {
-    "id": "ejemplo_solo_formato",
-    "prompt": "ESTE ES SOLO UN EJEMPLO DE FORMATO — bórralo al personalizar.\n\nEres soporte del bootcamp. Responde en 2 frases.\n\nUsuario: ¿Cuándo es la live review?"
+    "id": "pregunta_embeddings",
+    "prompt": "¿Qué es un embedding en machine learning? Explica en 3 frases para qué se usa y da un ejemplo."
   },
   {
-    "id": "TODO_pregunta_1",
-    "prompt": "TODO: redacta tu primera pregunta del benchmark (tarea normal de tu caso de uso)."
+    "id": "pregunta_vectordb",
+    "prompt": "¿Por qué usarías una base de datos vectorial (vector DB) en lugar de una base de datos relacional para un sistema RAG?"
   },
   {
-    "id": "TODO_pregunta_2",
-    "prompt": "TODO: segunda pregunta (otra tarea representativa de tu dominio)."
+    "id": "pregunta_tokenizacion_json",
+    "prompt": "Devuelve solo JSON válido con esta estructura: {\"concepto\": \"string\", \"uso_en_llm\": \"string breve\"}. Tema: ¿Qué es la tokenización y por qué es importante en LLMs?"
   },
   {
-    "id": "TODO_pregunta_estructurada",
-    "prompt": "TODO: pregunta con salida estructurada (JSON válido o clasificación en lista cerrada)."
-  },
-  {
-    "id": "TODO_pregunta_limite",
-    "prompt": "TODO: caso límite (vacío, fuera de dominio, inyección suave o formato muy estricto)."
+    "id": "pregunta_limite_incompleta",
+    "prompt": "Implementa una función en Python que..."
   }
 ]

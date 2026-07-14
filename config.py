@@ -8,7 +8,7 @@ Modificar MODELS o TEMPERATURE aquí solo si el enunciado lo indica.
 from pathlib import Path
 
 MODELS = [
-    "gemini-2.5-flash",
+    "gemini-3-flash-preview",
     "gemini-3.1-flash-lite",
 ]
 
